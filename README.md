@@ -2,4 +2,4 @@
 
 http://genyasmetana.github.io/Karate2/
 
-Link on this project in CV.
+Link on working draft in CV.
